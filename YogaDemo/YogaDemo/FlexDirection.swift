@@ -7,15 +7,3 @@
 //
 
 import UIKit
-
-class FlexDirectionViewController: UIViewController {
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    }
-    
-    override func viewDidLayoutSubviews() {
-        super.viewDidLayoutSubviews()
-        
-    }
-}
