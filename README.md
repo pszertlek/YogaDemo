@@ -1,5 +1,5 @@
 # YogaDemo
-Yoga is a Flexbox realization. Create by facebook, used in ReactNative,weex. It is a UI layout engine.
+Yoga 是 Flexbox的实现. 由facebook创建, 在ReactNative和Weex使用. 是一个界面布局引擎。
 
 #### Frame AutoLayout
 iOS提供两种布局方式frame和AutoLayout布局，虽然frame性能很好，但是写起来很麻烦，AutoLayout在iOS6被引入，基于Cassowary算法计算出各个视图的frame，性能相当于解线性方程组的时间复杂度。
